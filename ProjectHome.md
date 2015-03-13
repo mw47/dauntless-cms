@@ -1,0 +1,1 @@
+Dauntless CMS is inspired by PHP-Nuke and similiar projects. We take the basic concept of MySQL and PHP coding and infuse it with a Phd level of security.
